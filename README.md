@@ -1,6 +1,6 @@
 # BS React Router Dom
 
-Simple wrapper around [React Router Dom V4](https://reacttraining.com/react-router/web/guides/philosophy).
+Simple bindings for [React Router Dom V4](https://reacttraining.com/react-router/web/guides/philosophy).
 
 Written for personal use as an exercise, don't rely too much on it working correctly.
 
